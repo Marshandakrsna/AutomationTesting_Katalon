@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC2.2_MakeAppointment_Success</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4b042355-4dca-47ac-a6a2-5ae33a33fa04</testCaseGuid>
+</TestCaseEntity>
